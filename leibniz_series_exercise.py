@@ -9,4 +9,4 @@ def approximate_pi(n_terms):
     for i in x:
         pi1 += i
     pi = 4*pi1
-    print (pi)
+    return (pi)
