@@ -1,4 +1,5 @@
 def approximate_pi(n_terms):
+    pass # replace pass with your code
     list_of_numbers = []
     x = []
     for i in range(n_terms):
